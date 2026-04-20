@@ -18,7 +18,7 @@ function RatingCard({ selectedRating, onSelectRating, onSubmit }) {
 
       <h1>Como nos saímos</h1>
 
-      <p>     
+      <p>
         Por favor, nos diga como foi sua experiência com a sua solicitação de suporte. Todos os comentários são
         apreciativos e nos ajudam a melhorar nossos serviços!
       </p>
